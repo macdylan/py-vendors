@@ -1,0 +1,7 @@
+*.py[co]
+*.sw[po]
+.coverage
+pip-log.txt
+.DS_Store
+.gitconfig
+!*.egg-info
