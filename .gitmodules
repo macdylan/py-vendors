@@ -1,0 +1,72 @@
+[submodule "src/cache-panel"]
+	path = src/cache-panel
+	url = git://github.com/jbalogh/django-debug-cache-panel
+[submodule "src/check"]
+	path = src/check
+	url = git://github.com/jbalogh/check.git
+[submodule "src/commonware"]
+	path = src/commonware
+	url = git://github.com/jsocol/commonware.git
+[submodule "src/django"]
+	path = src/django
+	url = git://github.com/django/django
+[submodule "src/django-cache-machine"]
+    path = src/django-cache-machine
+    url = git://github.com/jbalogh/django-cache-machine.git
+[submodule "src/django-cronjobs"]
+	path = src/django-cronjobs
+	url = git://github.com/jsocol/django-cronjobs.git
+[submodule "src/django-debug-toolbar"]
+	path = src/django-debug-toolbar
+	url = https://github.com/django-debug-toolbar/django-debug-toolbar.git
+[submodule "src/django-devserver"]
+	path = src/django-devserver
+	url = git://github.com/dcramer/django-devserver.git
+[submodule "src/django-extensions"]
+	path = src/django-extensions
+	url = git://github.com/django-extensions/django-extensions.git
+[submodule "src/django-multidb-router"]
+	path = src/django-multidb-router
+	url = git://github.com/jbalogh/django-multidb-router.git
+[submodule "src/django-nose"]
+	path = src/django-nose
+	url = git://github.com/jbalogh/django-nose.git
+[submodule "src/django-queryset-transform"]
+	path = src/django-queryset-transform
+	url = git://github.com/jbalogh/django-queryset-transform.git
+[submodule "src/easy-thumbnails"]
+	path = src/easy-thumbnails
+	url = git://github.com/SmileyChris/easy-thumbnails.git
+[submodule "src/pymongo"]
+	path = src/pymongo
+	url = git://github.com/mongodb/mongo-python-driver.git
+[submodule "src/python-oauth2"]
+	path = src/python-oauth2
+	url = git://github.com/simplegeo/python-oauth2.git
+[submodule "src/redis"]
+    path = src/redis
+    url = https://github.com/andymccurdy/redis-py
+[submodule "src/django-mobility"]
+	path = src/django-mobility
+	url = git://github.com/jbalogh/django-mobility.git
+[submodule "src/fastchardet"]
+	path = src/fastchardet
+	url = git://github.com/mattbasta/fastchardet
+[submodule "src/statsd"]
+	path = src/statsd
+	url = git://github.com/jsocol/pystatsd.git
+[submodule "src/django-piston-oauth2"]
+	path = src/django-piston-oauth2
+	url = git://github.com/andymckay/django-piston-oauth2.git
+[submodule "src/django-ratelimit"]
+	path = src/django-ratelimit
+	url = git://github.com/jsocol/django-ratelimit.git
+[submodule "src/django-pylibmc"]
+	path = src/django-pylibmc
+	url = git://github.com/jbalogh/django-pylibmc.git
+[submodule "src/django-statsd"]
+	path = src/django-statsd
+	url = git://github.com/andymckay/django-statsd.git
+[submodule "src/django-mysql-pool"]
+	path = src/django-mysql-pool
+	url = git://github.com/andymckay/django-mysql-pool.git

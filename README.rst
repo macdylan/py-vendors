@@ -1,6 +1,6 @@
 From your libs root, do this::
 
-    git clone --recursive git://host/cbdway-libs.git cbdway-libs
+    git clone --recursive git://host/python-proj-libs.git vendor
 
 Sit back and relax while all that downloads, then proceed on your merry way.
 
@@ -14,12 +14,10 @@ How cbdway-libs was made
 
 ::
 
-    pip install -I --install-option="--home=`pwd`/cbdway-libs" --src='cbdway-libs/src' -r requirements/dev.txt
-
-    # ..delete some junk from cbdway-libs/lib/python...
+    pip install -I --src='vendor/src' -r requirements/dev.txt
 
     # Create the .pth file so Python can find our src libs.
-    find src -type d -depth 1 >> cbdwaylibs.pth
+    find src -type d -depth 1 >> vendor.pth
 
     # Add all the submodules.
     for f in src/*; do
@@ -34,6 +32,5 @@ Using your own lib
 We add these lines to our manage.py file ::
 
     import site
-    site.addsitedir('cbdway-libs')
-    site.addsitedir('cbdway-libs/lib/python')
+    site.addsitedir('vendor')
 
