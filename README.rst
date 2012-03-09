@@ -33,4 +33,5 @@ We add these lines to our manage.py file ::
 
     import site
     site.addsitedir('vendor')
+    site.addsitedir('vendor/lib/python')
 
