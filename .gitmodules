@@ -67,3 +67,6 @@
 [submodule "src/django-piston"]
 	path = src/django-piston
 	url = git://github.com/mozilla/django-piston.git
+[submodule "src/django-redis"]
+	path = src/django-redis
+	url = git://github.com/niwibe/django-redis.git

@@ -21,3 +21,4 @@ src/mongo-python-driver
 src/pystatsd
 src/python-oauth2
 src/redis-py
+src/django-redis
