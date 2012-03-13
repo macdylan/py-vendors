@@ -12,13 +12,11 @@ src/django-multidb-router
 src/django-mysql-pool
 src/django-nose
 src/django-piston
-src/django-piston-oauth2
 src/django-queryset-transform
 src/django-statsd
 src/easy-thumbnails
 src/fastchardet
 src/mongo-python-driver
 src/pystatsd
-src/python-oauth2
 src/redis-py
 src/django-redis

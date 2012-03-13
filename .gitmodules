@@ -31,9 +31,6 @@
 [submodule "src/mongo-python-driver"]
 	path = src/mongo-python-driver
 	url = git://github.com/mongodb/mongo-python-driver.git
-[submodule "src/python-oauth2"]
-	path = src/python-oauth2
-	url = git://github.com/simplegeo/python-oauth2.git
 [submodule "src/redis-py"]
 	path = src/redis-py
 	url = https://github.com/andymccurdy/redis-py
@@ -46,9 +43,6 @@
 [submodule "src/pystatsd"]
 	path = src/pystatsd
 	url = git://github.com/jsocol/pystatsd.git
-[submodule "src/django-piston-oauth2"]
-	path = src/django-piston-oauth2
-	url = git://github.com/andymckay/django-piston-oauth2.git
 [submodule "src/django-statsd"]
 	path = src/django-statsd
 	url = git://github.com/andymckay/django-statsd.git
