@@ -61,3 +61,6 @@
 [submodule "src/django-redis"]
 	path = src/django-redis
 	url = git://github.com/niwibe/django-redis.git
+[submodule "src/djang-ratelimit"]
+	path = src/djang-ratelimit
+	url = git://github.com/jsocol/django-ratelimit.git

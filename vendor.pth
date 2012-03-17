@@ -20,3 +20,4 @@ src/mongo-python-driver
 src/pystatsd
 src/redis-py
 src/django-redis
+src/django-ratelimit
