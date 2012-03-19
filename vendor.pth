@@ -21,3 +21,4 @@ src/pystatsd
 src/redis-py
 src/django-redis
 src/django-ratelimit
+src/django-timezones

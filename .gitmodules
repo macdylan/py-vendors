@@ -64,3 +64,6 @@
 [submodule "src/django-ratelimit"]
 	path = src/django-ratelimit
 	url = git://github.com/jsocol/django-ratelimit.git
+[submodule "src/django-timezones"]
+	path = src/django-timezones
+	url = git://github.com/brosner/django-timezones.git
