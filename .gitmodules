@@ -67,6 +67,3 @@
 [submodule "src/django-timezones"]
 	path = src/django-timezones
 	url = git://github.com/brosner/django-timezones.git
-[submodule "src/django-radagast"]
-	path = src/django-radagast
-	url = git://github.com/andymckay/django-radagast.git
