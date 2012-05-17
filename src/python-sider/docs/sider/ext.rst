@@ -1,3 +1,0 @@
-
-.. automodule:: sider.ext
-

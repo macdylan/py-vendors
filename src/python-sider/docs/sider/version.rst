@@ -1,4 +1,0 @@
-
-.. automodule:: sider.version
-   :members:
-

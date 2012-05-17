@@ -1,4 +1,0 @@
-
-.. automodule:: sider.session
-   :members:
-
