@@ -73,3 +73,6 @@
 [submodule "src/js-jquery.form"]
 	path = src/js-jquery.form
 	url = git://github.com/malsup/form.git
+[submodule "src/redisco"]
+	path = src/redisco
+	url = git://github.com/iamteem/redisco.git
