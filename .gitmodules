@@ -75,4 +75,4 @@
 	url = git://github.com/malsup/form.git
 [submodule "src/redisco"]
 	path = src/redisco
-	url = git://github.com/iamteem/redisco.git
+	url = git://github.com/macdylan/redisco.git
