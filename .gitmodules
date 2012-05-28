@@ -76,3 +76,6 @@
 [submodule "src/redisco"]
 	path = src/redisco
 	url = git://github.com/macdylan/redisco.git
+[submodule "src/oauth2app"]
+	path = src/oauth2app
+	url = git://github.com/hiidef/oauth2app.git
